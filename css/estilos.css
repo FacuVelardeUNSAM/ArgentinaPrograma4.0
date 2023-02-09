@@ -1,0 +1,47 @@
+
+* {
+    color: blue;
+
+}
+
+p, span{
+    color: red;
+}
+
+/**
+Comentario en CSS
+*/
+
+h1 {
+    border: 15px solid black;
+    padding: 30px 15px 25px 20px;
+    margin: 30px ;
+    font-weight: bold; 
+    color: gray;
+}
+
+section {
+    width: 500px;
+    border: 20px solid green;
+    padding: 50px;
+    margin: 30px;
+}
+
+#primer_parrafo {
+    width: 300px;
+    font-size: 23px;
+    color: blueviolet;
+    border: 30px solid rgb(59, 9, 210);
+    margin: 20px;
+}
+
+.clase_generica {
+    color: aquamarine;
+    font-size: 30px;
+}
+
+section h1 {
+    font-size: 100px;
+    font-family: 'Roboto', 'sans-serif';
+    background-image: url("../imagenes/paisaje.png");
+}
